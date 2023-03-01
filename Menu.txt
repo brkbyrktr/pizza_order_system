@@ -1,0 +1,21 @@
+
+  PIZZA ORDER SYSTEM || BAYRAKTAR PIZZA
+  -------------------------------------
+______________________________________________
+|                                             |
+| * Please Choose a Pizza Base:               |
+| 1: Classic                                  |
+| 2: Margherita                               |
+| 3: TurkPizza                                |
+| 4: Dominos Pizza                            |
+|                                             |
+| * and sauce of your choice:                 |
+| 10: Olives                                  |
+| 11: Mushrooms                               |
+| 12: Goat Cheese                             |
+| 13: Meat                                    |
+| 14: Onions                                  |
+| 15: Corn                                    |
+|                                             |
+| * Thank you!                                |
+|_____________________________________________-
